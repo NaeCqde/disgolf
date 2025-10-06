@@ -1,4 +1,4 @@
-module github.com/FedorLap2006/disgolf
+module github.com/NaeCqde/disgolf
 
 go 1.15
 
